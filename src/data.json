@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "surname": "Иванов",
+    "firstname": "Иван",
+    "patronymic": "Иванович",
+    "dateBirth": "1980-04-23",
+    "gen": "Мужской",
+    "address": "г.Алматы, ул.Фурманова 27",
+    "documents": [
+      {
+        "number": 2353456432,
+        "docType": "Удостоверение",
+        "authority": "МВД РК",
+        "issueDate": "2010-04-25",
+        "expirationDate": "2020-04-25"
+      },
+      {
+        "number": 7546454543,
+        "docType": "Паспорт",
+        "authority": "МВД РК",
+        "issueDate": "2010-04-25",
+        "expirationDate": "2020-04-25"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "surname": "Петров",
+    "firstname": "Петр",
+    "patronymic": "Петрович",
+    "dateBirth": "1981-05-03",
+    "gen": "Мужской",
+    "address": "г.Алматы, ул.Ленина 12",
+    "documents": [
+      {
+        "number": 345354346,
+        "docType": "Удостоверение",
+        "authority": "МВД РК",
+        "issueDate": "2011-06-15",
+        "expirationDate": "2020-04-25"
+      },
+      {
+        "number": 345346346567213,
+        "docType": "Паспорт",
+        "authority": "МВД РК",
+        "issueDate": "2011-06-15",
+        "expirationDate": "2020-04-25"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "surname": "Михайлова",
+    "firstname": "Анна",
+    "patronymic": "Михайловна",
+    "dateBirth": "1983-01-03",
+    "gen": "Женский",
+    "address": "г.Алматы, ул.Фурмнова 127",
+    "documents": [
+      {
+        "number": 84598723874,
+        "docType": "Удостоверение",
+        "authority": "МВД РК",
+        "issueDate": "2012-01-15",
+        "expirationDate": "2022-01-15"
+      }
+    ]
+  }
+]
